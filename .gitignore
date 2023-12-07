@@ -1,2 +1,4 @@
 */.terraform
+*/terraform.tfstate.backup
+*/terraform.tfstate
 terraform_mtc-rg/.terraform.lock.hcl
